@@ -1,5 +1,5 @@
-Matrix Content Scannerz
-=======================
+Matrix Content Scannerzzz
+=========================
 
 A Web service for scanning media hosted on a [Matrix](https://matrix.org) content repository.
 
